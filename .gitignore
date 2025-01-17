@@ -1,4 +1,7 @@
 node_modules
 coverage
 
-.idea
+.ideanode_modules/
+.env
+dist/
+public/
